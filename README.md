@@ -1,4 +1,3 @@
-```markdown
 # Cloud Polyglot IaC
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -310,4 +309,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 _Developed with ❤️ for the multi-cloud community_
-```
